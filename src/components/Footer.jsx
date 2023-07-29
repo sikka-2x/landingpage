@@ -8,7 +8,7 @@ export default function Footer() {
               <p className="text-white">GameTech Studio</p>
               <p className="text-white">Pune, Maharashtra - 412207 </p>
               <p className="text-white">Contact: 7610051000</p>
-              <p className="text-white">Email: Admin@sikka2x.com</p>
+              <p className="text-white">Email: help@sikka2x.com</p>
             </div>
             <div>
               <h3 className="font-bold text-primaryYellow">Quick Links</h3>
