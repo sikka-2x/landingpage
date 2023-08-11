@@ -20,6 +20,7 @@ export default function Header()
                     <li><a href="#testimonial" className="block py-2 lg:py-0 hover:text-primaryYellow">Testimonials</a></li>
                     <li><a href="#faq" className="block py-2 lg:py-0 hover:text-primaryYellow">FAQs</a></li>
                     <li><a href="#contact" className="block py-2 lg:py-0 hover:text-primaryYellow">Contact</a></li>
+                    <li><a href="/accountdelete" className="block py-2 lg:py-0 hover:text-primaryYellow">Contact</a></li>
                 </ul>
             </nav>
         </header>
