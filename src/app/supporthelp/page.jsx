@@ -2,7 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 
 
-export default function AccountDelete() {
+export default function SupportHelp() {
   return (
    <div>
     <h1>
