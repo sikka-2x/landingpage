@@ -9,7 +9,7 @@ const LandingPage = () => {
                     At Sikka2x, we've turned cricket trivia into an exhilarating game of speed and skill. Sikka2x is the ultimate destination for cricket enthusiasts who believe in their cricketing knowledge. But, there's a twist - at Sikka2x, you play with real money!
                     </p>
                     <div className="mt-5">
-                        <a href="/signup" className="inline-block px-5 py-3 rounded-lg shadow-lg bg-primaryYellow text-primaryRed font-bold uppercase tracking-wider">
+                        <a href="https://play.google.com/store/apps/details?id=com.gametechstudio.sikka2x&pcampaignid=web_share" className="inline-block px-5 py-3 rounded-lg shadow-lg bg-primaryYellow text-primaryRed font-bold uppercase tracking-wider">
                             Download Now
                         </a>
                     </div>
