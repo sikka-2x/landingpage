@@ -12,7 +12,11 @@ export default function Section({ type, title })
                     <div className="py-20 px-4 text-black">
                         <h2 className="text-4xl font-bold">Ready to put your cricket knowledge to the test and win real money? It's time to download the Sikka2x app and dive into the exciting world of cricket trivia!</h2>
                         <p className="mt-4 text-lg">Join the Cricket Trivia Revolution with Sikka2x!</p>
-                        <a href="https://play.google.com/store/apps/details?id=com.gametechstudio.sikka2x&pcampaignid=web_share" className="mt-6 bg-primaryYellow text-primaryRed btn btn-primary px-8 py-3 rounded-lg">Play now </a>
+
+                                            <div className="mt-5">
+                        <a href="https://play.google.com/store/apps/details?id=com.gametechstudio.sikka2x&pcampaignid=web_share" className="inline-block px-5 py-3 rounded-lg shadow-lg bg-primaryYellow text-primaryRed font-bold uppercase tracking-wider">
+                            Play Now
+                        </a>
                     </div>
                 </div>
             )}
