@@ -11,7 +11,7 @@ export default function Section({ type, title })
                 <div className="text-center bg-cover bg-center" style={{ backgroundImage: 'url(/images/banner.jpg)' }}>
                     <div className="py-20 px-4 text-black">
                         <h2 className="text-4xl font-bold">Ready to put your cricket knowledge to the test and win real money? It's time to download the Sikka2x app and dive into the exciting world of cricket trivia!</h2>
-                        <p className="mt-4 text-lg">Join the Cricket Trivia Revolution with Sikka2x!</p>
+                        <p className="mt-4 mb-4 text-lg">Join the Cricket Trivia Revolution with Sikka2x!</p>
 
                         <div className="mt-8">
                         <a href="https://play.google.com/store/apps/details?id=com.gametechstudio.sikka2x&pcampaignid=web_share" className="inline-block px-5 py-5 rounded-lg shadow-lg bg-primaryYellow text-primaryRed font-bold uppercase tracking-wider">
