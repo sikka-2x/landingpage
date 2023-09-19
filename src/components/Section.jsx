@@ -7,7 +7,7 @@ export default function Section({ type, title })
         <section className="p-4">
             <h2 className="text-xl font-semibold mb-4">{title}</h2>
 
-            {type === 'hero' && (
+
                 <div className="text-center bg-cover bg-center" style={{ backgroundImage: 'url(/images/banner.jpg)' }}>
                     <div className="py-20 px-4 text-black">
                         <h2 className="text-4xl font-bold">Ready to put your cricket knowledge to the test and win real money? It's time to download the Sikka2x app and dive into the exciting world of cricket trivia!</h2>
@@ -19,7 +19,7 @@ export default function Section({ type, title })
                         </a>
                     </div>
                 </div>
-            )}
+            
 
 
             {type === 'how-it-works' && (
