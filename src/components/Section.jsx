@@ -21,7 +21,7 @@ export default function Section({ type, title })
                     </div>
                 </div>
             
-                )};
+                )}
 
             {type === 'how-it-works' && (
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 p-4 bg-amber-100 text-primaryRed `rounded-lg" id="about">
