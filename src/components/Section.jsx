@@ -238,5 +238,5 @@ export default function Section({ type, title })
                 </div>
             )}
         </section>
-    );
-};
+    )
+}
