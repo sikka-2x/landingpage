@@ -7,7 +7,7 @@ export default function Section({ type, title })
         <section className="p-4">
             <h2 className="text-xl font-semibold mb-4">{title}</h2>
 
-
+            {type === 'hero' && (
                 <div className="text-center bg-cover bg-center" style={{ backgroundImage: 'url(/images/banner.jpg)' }}>
                     <div className="py-20 px-4 text-black">
                         <h2 className="text-4xl font-bold">Ready to put your cricket knowledge to the test and win real money? It's time to download the Sikka2x app and dive into the exciting world of cricket trivia!</h2>
@@ -17,10 +17,11 @@ export default function Section({ type, title })
                         <a href="https://play.google.com/store/apps/details?id=com.gametechstudio.sikka2x&pcampaignid=web_share" className="inline-block px-5 py-5 rounded-lg shadow-lg bg-primaryYellow text-primaryRed font-bold uppercase tracking-wider">
                             Play Now
                         </a>
+                        </div>
                     </div>
                 </div>
             
-
+                )};
 
             {type === 'how-it-works' && (
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 p-4 bg-amber-100 text-primaryRed `rounded-lg" id="about">
