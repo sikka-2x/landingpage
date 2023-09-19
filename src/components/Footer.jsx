@@ -19,7 +19,7 @@ export default function Footer() {
             </div>
           </div>
           <div className="text-center mt-4 text-white">
-            <p>© 2023 SIKKA 2X. All rights reserved.</p>
+            <p>Copyright © Gametech Studio. All rights reserved</p>
           </div>
         </div>
       </footer>
